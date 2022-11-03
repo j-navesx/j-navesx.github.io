@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 console.log(document.URL);
 
 =======
@@ -38,4 +37,3 @@ function logFile (event) {
 	app.append(img);
 	console.log(str);
 }
->>>>>>> Stashed changes
