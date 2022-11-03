@@ -1,1 +1,1 @@
-console.log("Loading content for {" + id + "}");
+console.log(document.URL);
